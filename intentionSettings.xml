@@ -1,0 +1,14 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="JavaScript/Introduce local variable" />
+    <ignoreAction name="JavaScript/Language Injection/Don't format injected content" />
+    <ignoreAction name="JavaScript/ECMAScript 6/Convert template string to use visible line separators" />
+    <ignoreAction name="Language injection/Edit injected fragment" />
+    <ignoreAction name="Language injection/Edit injection settings" />
+    <ignoreAction name="JavaScript/Other/Replace Single-Quoted String with Double-Quoted String" />
+    <ignoreAction name="Language injection/Uninject language or reference" />
+    <ignoreAction name="TypeScript/Convert parameter property to class field" />
+    <ignoreAction name="Language injection/Inject language or reference" />
+    <ignoreAction name="Database/Run query in console" />
+  </component>
+</application>

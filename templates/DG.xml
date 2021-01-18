@@ -1,0 +1,116 @@
+<templateSet group="DG">
+  <template name="addJS" value="{include file=$tpl_dg|cat:&quot;addJS.tpl&quot; jsPath = &quot;$jsPath$&quot; serial='false'}$END$" description="SMARTY: include file=$tpl_dg|cat:&quot;addJS.tpl&quot;.... serial='false'" toReformat="true" toShortenFQNames="true">
+    <variable name="jsPath" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="addCSS" value="{include file=$tpl_dg|cat:&quot;addCSS.tpl&quot; cssPath = &quot;$cssPath$&quot;}$END$" description="SMARTY: {include file=$tpl_dg|cat:&quot;addCSS.tpl&quot;" toReformat="true" toShortenFQNames="true">
+    <variable name="cssPath" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="_e" value="export const _$name$_ = '$name$';$END$" description="TS:  export const _......._" toReformat="true" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="_edg" value="export const _dg$name$_ = 'dg-$SELECTION$';$END$" description="TS:  export const _dg-Name..._" toReformat="true" toShortenFQNames="true">
+    <variable name="name" expression="capitalize(SELECTION)" defaultValue="SELECTION" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="_d" value="define('_$CONST$_', '$CONST$');$END$" description="PHP:  define const" toReformat="true" toShortenFQNames="true">
+    <variable name="CONST" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="addJSs" value="{include file=$tpl_dg|cat:&quot;addJS.tpl&quot; jsPath = &quot;$SELECTION$&quot; serial='false'}$END$" description="SMARTY: include file=$tpl_dg|cat:&quot;addJS.tpl&quot;.... serial='false'" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="addCSSs" value="{include file=$tpl_dg|cat:&quot;addCSS.tpl&quot; cssPath = &quot;$SELECTION$&quot;}$END$" description="SMARTY: {include file=$tpl_dg|cat:&quot;addCSS.tpl&quot;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="log" value="$END$@df.log(true)" description="TS:  @df.log(true)" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="dg" value="$(dg([$END$]))" description="TS:  $(dg([$END$]))" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="include ____.tpl" value="{include file=$tpl_dg|cat:&quot;$SELECTION$&quot;}$END$" description="SMARTY: include file=$tpl_dg|cat:..." toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="_inc" value="{include file=$tpl_dg|cat:&quot;$VAR0$&quot;}$END$" description="SMARTY: include file=$tpl_dg|cat:..." toReformat="true" toShortenFQNames="true">
+    <variable name="VAR0" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="_ishka" value="{include file=$tpl_dg|cat:&quot;pages/product/module/popups/ishka.tpl&quot; dgInfo='$VAR0$' class='$END$'}" description="SMARTY: include file=$tpl_dg|cat:..." toReformat="true" toShortenFQNames="true">
+    <variable name="VAR0" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="ishka" value="{include file=$tpl_dg|cat:&quot;pages/product/module/popups/ishka.tpl&quot; dgInfo='$SELECTION$'}$END$" description="SMARTY: include file=$tpl_dg|cat:..." toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="_e SELECTION" value="export const _$name$_ = '$SELECTION$';$END$" description="TS:  export const _dg-Name..._" toReformat="true" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="SELECTION" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="_prom" value=" return new Promise((resolve)=&gt;{&#10;    resolve();$END$    &#10; })" description="return new promise" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="_def" value="const _def = $.Deferred();&#10;return _def.promise();$END$    &#10; " description="return new $.Deferred" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="qwe" value="console.log('&gt;&gt;', $END$);" description="console.log" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="qq" value="console.log(' &gt;&gt; ', $END$);" description="conslo logg" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="Twig" value="true" />
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="cc" value="/**&#10; * $END$&#10; */" description="multiline comment" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
