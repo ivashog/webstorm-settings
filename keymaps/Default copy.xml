@@ -1,0 +1,98 @@
+<keymap version="1" name="Default copy" parent="Default for XWin">
+  <action id="ActivateDebugToolWindow" />
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFindToolWindow" />
+  <action id="ActivateRunToolWindow" />
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="ActivateTODOToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="alt f3" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="ActivityTracker-Popup">
+    <keyboard-shortcut first-keystroke="shift ctrl alt o" />
+  </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
+  <action id="ConsoleView.ClearAll">
+    <keyboard-shortcut first-keystroke="ctrl alt c" />
+  </action>
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
+  <action id="EditorSplitLine" />
+  <action id="FileWatcher.runForFiles">
+    <keyboard-shortcut first-keystroke="shift alt w" />
+  </action>
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="IntroduceConstant" />
+  <action id="NextTab" />
+  <action id="PreviousTab" />
+  <action id="PublishGroup.Upload">
+    <keyboard-shortcut first-keystroke="shift alt u" />
+  </action>
+  <action id="QuickChangeScheme" />
+  <action id="RearrangeCode">
+    <keyboard-shortcut first-keystroke="shift alt k" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift alt l" />
+  </action>
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="shift alt s" />
+  </action>
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="shift alt t" />
+  </action>
+  <action id="SurroundWithLiveTemplate">
+    <keyboard-shortcut first-keystroke="ctrl alt j" />
+    <keyboard-shortcut first-keystroke="shift alt space" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="Vcs.Log.GoToRef">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+  <action id="com.action.netsuitetools.changeprojectsettings">
+    <keyboard-shortcut first-keystroke="shift alt comma" />
+  </action>
+  <action id="com.action.netsuitetools.comparewithfilecabinet">
+    <keyboard-shortcut first-keystroke="shift alt back_slash" />
+  </action>
+  <action id="com.action.netsuitetools.setupproject">
+    <keyboard-shortcut first-keystroke="shift alt p" />
+  </action>
+  <action id="com.action.netsuitetools.upload">
+    <keyboard-shortcut first-keystroke="shift ctrl alt u" />
+  </action>
+  <action id="com.netsuitetools.recordsbrowser">
+    <keyboard-shortcut first-keystroke="shift alt period" />
+  </action>
+  <action id="com.xu.YiiAction" />
+  <action id="context.load" />
+  <action id="context.save" />
+  <action id="tasks.close" />
+</keymap>
