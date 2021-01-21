@@ -1,0 +1,13 @@
+<application>
+  <component name="NotificationConfiguration" systemNotifications="false">
+    <notification groupId=".ignore plugin" displayType="NONE" />
+    <notification groupId="Branch Context group" displayType="NONE" />
+    <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
+    <notification groupId="PHPUnit" displayType="NONE" shouldLog="false" />
+    <notification groupId="Plugins Suggestion" displayType="NONE" />
+    <notification groupId="Power Save Mode" displayType="NONE" />
+    <notification groupId="Profiling" displayType="NONE" shouldLog="false" />
+    <notification groupId="Remote Desktop" displayType="NONE" shouldLog="false" />
+    <notification groupId="System Health" displayType="NONE" />
+  </component>
+</application>
