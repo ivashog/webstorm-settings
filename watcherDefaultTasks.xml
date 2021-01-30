@@ -14,7 +14,7 @@
           <array />
         </option>
         <option name="outputFromStdout" value="false" />
-        <option name="program" value="$USER_HOME$/www/covid19/covid-analytics/node_modules/.bin/prettier" />
+        <option name="program" value="$USER_HOME$/Work/re-calc-api/node_modules/.bin/prettier" />
         <option name="runOnExternalChanges" value="true" />
         <option name="scopeName" value="Project Files" />
         <option name="trackOnlyRoot" value="true" />
