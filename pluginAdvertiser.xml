@@ -873,8 +873,8 @@
         <entry key="*.prisma">
           <value>
             <plugin>
-              <option name="myPluginId" value="fr.gabrielcolson.prisma.prisma-intellij-plugin" />
-              <option name="myPluginName" value="Prisma" />
+              <option name="myPluginId" value="io.techtrails.intellij.prisma" />
+              <option name="myPluginName" value="Prisma Support" />
             </plugin>
           </value>
         </entry>
