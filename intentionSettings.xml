@@ -10,5 +10,6 @@
     <ignoreAction name="TypeScript/Convert parameter property to class field" />
     <ignoreAction name="Language injection/Inject language or reference" />
     <ignoreAction name="Database/Run query in console" />
+    <ignoreAction name="JavaScript/Declaration/Split Declaration And Move To Scope Start" />
   </component>
 </application>
