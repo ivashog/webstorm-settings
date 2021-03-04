@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../database/sql/vaccination-vaccine-distribution-view.sql'" />
-    <option name="defaultScopeName" value="File '.../database/sql/vaccination-vaccine-distribution-view.sql'" />
-    <option name="SEARCH_SCOPE" value="File '.../database/sql/vaccination-vaccine-distribution-view.sql'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
