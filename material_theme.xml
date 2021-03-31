@@ -1,5 +1,9 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="compactMenus" value="true" />
+    <option name="compactStatusBar" value="true" />
+    <option name="compactTables" value="true" />
+    <option name="highContrast" value="true" />
     <option name="allowDataCollection" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="isCompactMenus" value="true" />
@@ -13,10 +17,10 @@
     <option name="tabFontSizeEnabled" value="true" />
     <option name="useMaterialFont2" value="true" />
     <option name="tabFontSize" value="13" />
-    <option name="tabsHeight" value="14" />
+    <option name="tabsHeight" value="42" />
     <option name="accentColor" value="f0943b" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="623a3989:16f668b6ee0:-8000" />
-    <option name="version" value="4.11.5" />
+    <option name="version" value="5.5.0" />
   </component>
 </application>
