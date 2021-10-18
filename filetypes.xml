@@ -3,11 +3,11 @@
     <extensionMap>
       <mapping pattern="tmp" type="AUTO_DETECTED" />
       <mapping pattern=".versionrc" type="JSON" />
-      <mapping pattern="zi5iAuXL" type="PLAIN_TEXT" />
-      <mapping pattern="1" type="PLAIN_TEXT" />
-      <mapping pattern="req" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="zi5iAuXL" type="PLAIN_TEXT" />
+      <mapping pattern="req" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />

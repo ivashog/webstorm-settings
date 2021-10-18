@@ -4,16 +4,16 @@
       <sshConfig authType="PASSWORD" host="46.101.166.232" id="1ea95c49-fc71-42bb-bdcc-e4852856232c" port="22" customName="HQ-GLC2-production" nameFormat="CUSTOM">
         <option name="customName" value="HQ-GLC2-production" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="89.184.82.170" id="873b5821-a4fe-4181-80e0-367722aefc19" port="22" customName="om - prod" nameFormat="CUSTOM">
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="89.184.82.170" id="873b5821-a4fe-4181-80e0-367722aefc19" port="22" customName="om - prod" nameFormat="CUSTOM">
         <option name="customName" value="om - prod" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="192.168.30.11" id="5076c1f0-7003-41f9-ab76-26f68c08b63b" port="22" customName="om - test" nameFormat="CUSTOM">
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="192.168.30.11" id="5076c1f0-7003-41f9-ab76-26f68c08b63b" port="22" customName="om - test" nameFormat="CUSTOM">
         <option name="customName" value="om - test" />
       </sshConfig>
       <sshConfig authType="PASSWORD" host="192.168.30.160" id="c7216dae-a3cc-4f24-a450-30b6bf287f41" port="22" customName="om-api-test" nameFormat="CUSTOM">
         <option name="customName" value="om-api-test" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="147.78.119.6" id="bb465a22-35d4-42c5-955f-001c198e6268" port="22" customName="SmartCity-IoT" nameFormat="CUSTOM">
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="147.78.119.6" id="bb465a22-35d4-42c5-955f-001c198e6268" port="22" customName="SmartCity-IoT" nameFormat="CUSTOM">
         <option name="customName" value="SmartCity-IoT" />
       </sshConfig>
     </configs>
