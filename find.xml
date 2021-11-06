@@ -4,14 +4,23 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
-    <mask>*.html</mask>
     <mask>*.jsp</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
-    <mask>*.js</mask>
     <mask>*.as</mask>
-    <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.js,*.vue</mask>
+    <mask>*.xml</mask>
+    <mask>*.css</mask>
+    <mask>*.shtml</mask>
+    <mask>*.shtm</mask>
+    <mask>*.ng</mask>
+    <mask>*.htm</mask>
+    <mask>*.sht</mask>
+    <mask>*.html</mask>
+    <mask>*.interface</mask>
+    <mask>*.ats</mask>
+    <mask>*.ts</mask>
+    <mask>*.cjs</mask>
+    <mask>*.js</mask>
   </component>
 </application>
