@@ -4,7 +4,7 @@
       <artifact id="ClickHouse" name="ClickHouse" use="true" version="0.3.1" />
     </driver>
     <driver id="mariadb">
-      <artifact id="MariaDB Connector J" name="MariaDB Connector J" use="true" version="2.6.0" />
+      <artifact id="MariaDB Connector J" name="MariaDB Connector J" use="true" version="2.7.3" />
     </driver>
     <driver id="mysql.8" dialect="MariaDB">
       <artifact id="MySQL Connector/J 8" name="MySQL Connector/J 8" use="true" version="8.0.21" />
