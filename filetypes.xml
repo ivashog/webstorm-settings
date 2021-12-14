@@ -15,6 +15,7 @@
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="crdownload" type="PLAIN_TEXT" />
       <mapping ext="backup" type="PLAIN_TEXT" />
+      <mapping ext="dbml" type="PLAIN_TEXT" />
       <mapping ext="mbtiles" type="PLAIN_TEXT" />
       <mapping ext="plantuml" type="PlantUML file" />
       <mapping pattern="constants" type="TypeScript" />
