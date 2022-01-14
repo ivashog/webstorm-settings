@@ -3,7 +3,7 @@
     <property name="created">2020-05-06T14:20:17</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.3.2.0.0</property>
-    <property name="modified">2020-07-23T16:41:00</property>
+    <property name="modified">2022-01-14T15:42:10</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <colors>
@@ -33,4 +33,12 @@
     <option name="FILESTATUS_changelistConflict" value="d5756c" />
     <option name="FILESTATUS_modifiedOutside" value="6182b8" />
   </colors>
+  <attributes>
+    <option name="BREADCRUMBS_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="585858" />
+        <option name="BACKGROUND" value="dd5252" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
