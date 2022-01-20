@@ -11,5 +11,6 @@
     <ignoreAction name="Language injection/Inject language or reference" />
     <ignoreAction name="Database/Run query in console" />
     <ignoreAction name="JavaScript/Declaration/Split Declaration And Move To Scope Start" />
+    <ignoreAction name="JavaScript/Language Injection/Disable formatting for injected content" />
   </component>
 </application>
