@@ -6,6 +6,7 @@
     <option name="contrastMode" value="true" />
     <option name="highContrast" value="true" />
     <option name="highlightColorEnabled" value="true" />
+    <option name="useMaterialFont" value="true" />
     <option name="allowDataCollection" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="isActiveBoldTab" value="true" />
@@ -26,6 +27,6 @@
     <option name="accentColor" value="f0943b" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="623a3989:16f668b6ee0:-8000" />
-    <option name="version" value="6.9.1" />
+    <option name="version" value="6.16.2" />
   </component>
 </application>
