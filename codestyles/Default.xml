@@ -32,6 +32,10 @@
     <option name="RETURN_TYPE_ON_NEW_LINE" value="true" />
     <option name="PLACE_PARENS_FOR_CONSTRUCTOR" value="1" />
   </PHPCodeStyleSettings>
+  <SqlCodeStyleSettings version="6">
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="BUILT_IN_CASE" value="0" />
+  </SqlCodeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="RIGHT_MARGIN" value="350" />
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="true" />
