@@ -5,9 +5,11 @@
       <w>cota</w>
       <w>edrpou</w>
       <w>geojson</w>
+      <w>lquery</w>
       <w>meddata</w>
       <w>nazk</w>
       <w>plpgsql</w>
+      <w>postgre</w>
       <w>sheetname</w>
       <w>srid</w>
       <w>translit</w>
