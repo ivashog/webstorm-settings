@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="tmp" type="AUTO_DETECTED" />
-      <mapping pattern="nest-cli.json" type="JSON" />
       <mapping pattern=".versionrc" type="JSON" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="zi5iAuXL" type="PLAIN_TEXT" />
