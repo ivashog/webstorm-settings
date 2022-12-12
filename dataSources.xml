@@ -1,0 +1,18 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="sanctions@cota-dev" uuid="5bc45760-4e98-44a6-a37d-3cf6cd29fc1b">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://193.109.9.100:5436/sanctions</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="sanctions2@amazon-pub" uuid="85f3f6f1-e5b1-4b37-b502-9445767811d6">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://database-2.cb9s4hpalc4x.eu-north-1.rds.amazonaws.com:5432/sanctions3</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</application>
