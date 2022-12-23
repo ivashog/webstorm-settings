@@ -3,13 +3,14 @@
     <extensionMap>
       <mapping pattern="tmp" type="AUTO_DETECTED" />
       <mapping pattern="commit-msg" type="AUTO_DETECTED" />
+      <mapping pattern="Dockerfile.*" type="Dockerfile" />
       <mapping pattern=".versionrc" type="JSON" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="zi5iAuXL" type="PLAIN_TEXT" />
-      <mapping pattern="req" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="req" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="dto" type="PLAIN_TEXT" />
@@ -23,6 +24,7 @@
       <mapping pattern="constants" type="TypeScript" />
       <mapping ext="interface" type="TypeScript" />
       <removed_mapping pattern=".versionrc" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="Dokerfile.*" approved="true" type="Dockerfile" />
       <mapping pattern=".pgmigraterc" type="JSCS" />
     </extensionMap>
   </component>
