@@ -8,6 +8,7 @@
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="zi5iAuXL" type="PLAIN_TEXT" />
       <mapping pattern="req" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
