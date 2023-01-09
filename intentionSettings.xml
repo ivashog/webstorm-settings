@@ -14,5 +14,6 @@
     <ignoreAction name="JavaScript/Language Injection/Disable formatting for injected content" />
     <ignoreAction name="Other/Rollback changes in current line" />
     <ignoreAction name="JavaScript/Edit values of object literal properties" />
+    <ignoreAction name="Other/Create new scratch file from selection" />
   </component>
 </application>
