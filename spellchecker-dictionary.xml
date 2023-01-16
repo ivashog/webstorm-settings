@@ -8,6 +8,7 @@
       <w>dockerize</w>
       <w>dpsu</w>
       <w>edrpou</w>
+      <w>factbook</w>
       <w>geojson</w>
       <w>initdb</w>
       <w>jscutlery</w>
@@ -23,6 +24,7 @@
       <w>prismerge</w>
       <w>puml</w>
       <w>regplace</w>
+      <w>requirepass</w>
       <w>sheetname</w>
       <w>srid</w>
       <w>translit</w>
