@@ -9,6 +9,7 @@
       <w>dpsu</w>
       <w>edrpou</w>
       <w>factbook</w>
+      <w>fkey</w>
       <w>geojson</w>
       <w>initdb</w>
       <w>intelliganse</w>
@@ -28,6 +29,9 @@
       <w>puml</w>
       <w>regplace</w>
       <w>requirepass</w>
+      <w>reseted</w>
+      <w>sequense</w>
+      <w>setval</w>
       <w>sheetname</w>
       <w>srid</w>
       <w>translit</w>
