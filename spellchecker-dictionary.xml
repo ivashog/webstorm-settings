@@ -30,6 +30,7 @@
       <w>regplace</w>
       <w>requirepass</w>
       <w>reseted</w>
+      <w>rnbo</w>
       <w>sequense</w>
       <w>setval</w>
       <w>sheetname</w>
@@ -37,6 +38,7 @@
       <w>translit</w>
       <w>trgm</w>
       <w>upserted</w>
+      <w>writeonly</w>
       <w>великa</w>
       <w>українa</w>
     </words>
