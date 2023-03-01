@@ -22,6 +22,7 @@
       <w>nestcota</w>
       <w>nsdc</w>
       <w>passthrough</w>
+      <w>periodicities</w>
       <w>pgdata</w>
       <w>plpgsql</w>
       <w>postgis</w>
