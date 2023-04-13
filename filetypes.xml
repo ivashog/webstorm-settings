@@ -20,14 +20,18 @@
       <mapping ext="backup" type="PLAIN_TEXT" />
       <mapping ext="dbml" type="PLAIN_TEXT" />
       <mapping ext="mbtiles" type="PLAIN_TEXT" />
+      <mapping ext="plantuml" type="PlantUML file" />
       <mapping pattern="*.prisma.*" type="Prisma" />
       <mapping pattern="constants" type="TypeScript" />
       <mapping ext="interface" type="TypeScript" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping pattern=".dockerignore" approved="true" type="Docker File" />
       <removed_mapping pattern=".dockerignore" approved="true" type="Docker File" />
       <removed_mapping pattern=".versionrc" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".versionrc" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="Dokerfile.*" approved="true" type="Dockerfile" />
-      <mapping ext="plantuml" type="PlantUML file" />
+      <removed_mapping pattern="Dokerfile.*" approved="true" type="Dockerfile" />
       <mapping pattern=".pgmigraterc" type="JSCS" />
     </extensionMap>
   </component>
