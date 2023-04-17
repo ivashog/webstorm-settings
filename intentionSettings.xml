@@ -15,5 +15,6 @@
     <ignoreAction name="Other/Rollback changes in current line" />
     <ignoreAction name="JavaScript/Edit values of object literal properties" />
     <ignoreAction name="Other/Create new scratch file from selection" />
+    <ignoreAction name="JavaScript/ECMAScript 6/Insert template string argument" />
   </component>
 </application>
