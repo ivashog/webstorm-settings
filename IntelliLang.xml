@@ -8,7 +8,13 @@
     <injection language="PostgreSQL" injector-id="js">
       <display-name>SQL tag with expression</display-name>
       <prefix>SELECT</prefix>
-      <value-pattern>[a-z_]*(.*).*</value-pattern>
+      <value-pattern>^(?!SELECT|INSERT|UPDATE|WITH)(.*).*</value-pattern>
+      <single-file value="false" />
+      <place><![CDATA[taggedString("sql")]]></place>
+      <templateTag>sql</templateTag>
+    </injection>
+    <injection language="SQL" injector-id="js">
+      <display-name>SQL tagged string</display-name>
       <single-file value="false" />
       <place><![CDATA[taggedString("sql")]]></place>
       <templateTag>sql</templateTag>
