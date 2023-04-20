@@ -19,6 +19,12 @@
       <place><![CDATA[taggedString("sql")]]></place>
       <templateTag>sql</templateTag>
     </injection>
+    <injection language="shell script" injector-id="js">
+      <display-name>zx bash comands</display-name>
+      <single-file value="false" />
+      <place><![CDATA[taggedString("$")]]></place>
+      <templateTag>$</templateTag>
+    </injection>
     <injection language="PostgreSQL" injector-id="sql">
       <display-name>PostgreSQL dblink</display-name>
       <single-file value="true" />
