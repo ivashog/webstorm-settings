@@ -9,8 +9,8 @@
       <display-name>SQL tag with expression</display-name>
       <prefix>SELECT</prefix>
       <value-pattern>^([a-z0-9_]+\(.*\).*)</value-pattern>
-      <single-file value="false" />
-      <place><![CDATA[taggedString("sql")]]></place>
+      <single-file value="true" />
+      <place disabled="true"><![CDATA[taggedString("sql")]]></place>
       <templateTag>sql</templateTag>
     </injection>
     <injection language="SQL" injector-id="js">
