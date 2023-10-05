@@ -37,6 +37,7 @@
       <w>plpgsql</w>
       <w>postgis</w>
       <w>postgre</w>
+      <w>precommit</w>
       <w>prismerge</w>
       <w>puml</w>
       <w>regplace</w>
