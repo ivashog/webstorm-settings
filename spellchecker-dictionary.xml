@@ -48,6 +48,7 @@
       <w>setval</w>
       <w>sheetname</w>
       <w>srid</w>
+      <w>timestamptz</w>
       <w>translit</w>
       <w>trgm</w>
       <w>upserted</w>
