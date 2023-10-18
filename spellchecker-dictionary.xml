@@ -49,6 +49,7 @@
       <w>setval</w>
       <w>sheetname</w>
       <w>srid</w>
+      <w>theunderscorer</w>
       <w>timestamptz</w>
       <w>translit</w>
       <w>trgm</w>
