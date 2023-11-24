@@ -28,6 +28,7 @@
       <w>keyscan</w>
       <w>keyset</w>
       <w>kszi</w>
+      <w>kyiv</w>
       <w>kysely</w>
       <w>logfas</w>
       <w>logtail</w>
@@ -44,6 +45,7 @@
       <w>passthrough</w>
       <w>periodicities</w>
       <w>pgdata</w>
+      <w>pgtz</w>
       <w>plpgsql</w>
       <w>postgis</w>
       <w>postgre</w>
