@@ -69,6 +69,7 @@
       <w>timestamptz</w>
       <w>translit</w>
       <w>trgm</w>
+      <w>unsuccess</w>
       <w>upserted</w>
       <w>verdaccio</w>
       <w>writeonly</w>
